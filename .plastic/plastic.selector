@@ -1,0 +1,4 @@
+repository "Outlets Simulator@Kadir_Selim_ARSLAN@cloud"
+  path "/"
+    br "/main"
+    co "/main"
